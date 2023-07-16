@@ -1,3 +1,18 @@
 h1 {
     color: brown;
+    font-family: initial;
+    border: inherit;
+}
+.annotation {
+    font-size: 10px;
+}
+#subscribe-btn {
+    color: crimson;
+}
+body {
+    font-family: sans-serif;
+    border: 5px;
+}
+p{
+    font-family: monospace;
 }
